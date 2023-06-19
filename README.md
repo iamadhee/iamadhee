@@ -10,6 +10,3 @@ Visit my blog - [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhee&layout=compact&theme=dark&hide_border=true)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamadhee)](https://github.com/gkhan205/github-profile-trophy)

@@ -6,6 +6,7 @@ Visit my blog - [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the
 
 [![Linkedin: Adheeban](https://img.shields.io/badge/-Adheeban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adheeban-manoharan/)](https://www.linkedin.com/in/adheeban-manoharan/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamadhee_?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=iamadhee)
 
 ---
 

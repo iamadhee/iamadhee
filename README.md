@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I am **Adheeban** working as a **Software Engineer @ Saama**. I am an Experienced **Developer** with a demonstrated history of working in the information technology and services industry. Strong engineering professional with a Bachelor of Statistics from Madras Christian College.
+I'm Adheeban, an open-source advocate and Software Engineer at Saama. I have 2 years of experience and a strong background in IT and services. I'm currently passionate about exploring LLMs (Large Language Models).
+
+✨ I believe in the power of open-source software to drive innovation, promote transparency, and empower individuals and organizations alike. I'm constantly exploring new technologies.
+
+💼 In my GitHub repositories, you'll find a variety of projects I've worked on, including some related to LLMs. Feel free to explore and engage with them. If you have any questions, suggestions, or want to collaborate, don't hesitate to reach out.
 
 Visit my blog - [dev.to/iamadhee](https://dev.to/iamadhee)
 

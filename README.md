@@ -13,5 +13,10 @@ Visit my blog - [dev.to/iamadhee](https://dev.to/iamadhee)
 ![Visitors](https://komarev.com/ghpvc/?username=iamadhee)
 <a href="https://www.buymeacoffee.com/adheebanm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="70" ></a>
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,flask,docker,cpp" />
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhee&layout=compact&theme=dark&hide_border=true)

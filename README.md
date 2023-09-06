@@ -15,7 +15,7 @@ Visit my blog - [dev.to/iamadhee](https://dev.to/iamadhee)
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,flask,docker,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,js,flask,react,tailwind,docker,cpp" />
   </a>
 </p>
 
